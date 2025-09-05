@@ -2,6 +2,7 @@
 
 Vendor|Serverity|Region affected|Added|Reason|Resource
 -|-|-|-|-|-
+BMW|Critical|Worldwide|2025-09-05|Home Assistant blocked|https://github.com/home-assistant/core/issues/149750
 Chamberlain Group|Critical|Worldwide|2023-11-06|MyQ-API usage permitted/blocked|https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/
 Eight Sleep|Warning|Worldwide|2023-03-28|Warning: Predetory Cloud only subscribtions|https://www.reddit.com/r/EightSleep/comments/1248wgz/buyer_beware_eight_sleep_has_now_moved_basic/
 Haier|Information|Europe|2024-01-15|Past legal takedown notice|https://github.com/Andre0512/hOn
